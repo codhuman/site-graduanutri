@@ -1,0 +1,155 @@
+{
+  "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "version": 1,
+  "newProjectRoot": "projects",
+  "projects": {
+    "codhuman-angular": {
+      "projectType": "application",
+      "schematics": {
+        "@schematics/angular:component": {
+          "style": "scss",
+          "standalone": true
+        }
+      },
+      "root": "",
+      "sourceRoot": "src",
+      "prefix": "app",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:browser",
+          "options": {
+            "outputPath": "dist/codhuman-angular",
+            "index": "src/index.html",
+            "main": "src/main.ts",
+            "polyfills": "src/polyfills.ts",
+            "tsConfig": "tsconfig.app.json",
+            "inlineStyleLanguage": "scss",
+            "assets": [
+              "src/favicon-codhuman.png",
+              "src/favicon.ico",
+              "src/assets",
+              "src/app/sections/08-so/01-linux/03-cmd/01-pwd/tema-08-so-01-linux-03-cmd-01-pwd/assets"
+            ],
+            "styles": [
+              "src/assets/css-codhuman/06-midia/codhuman-icones.scss",
+              "src/assets/css-codhuman/06-midia/codhuman-imagens.scss",
+              "src/assets/css-codhuman/06-midia/codhuman-logo.scss",
+              "src/assets/css-codhuman/06-midia/codhuman-mapa.scss",
+              "src/assets/css-codhuman/06-midia/codhuman-video.scss",
+              "src/assets/css-codhuman/07-form/codhuman-botao.scss",
+              "src/assets/css-codhuman/07-form/codhuman-form-contato.scss",
+              "src/assets/css-codhuman/07-form/codhuman-form-search.scss",
+              "src/assets/css-codhuman/07-form/codhuman-form.scss",
+              "src/assets/css-codhuman/08-table/codhuman-table.scss",
+              "src/assets/css-codhuman/09-semantico/codhuman-main.scss",
+              "src/assets/css-codhuman/10-menu/codhuman-dropdown.scss",
+              "src/assets/css-codhuman/10-menu/codhuman-leftnavbar.scss",
+              "src/assets/css-codhuman/10-menu/codhuman-nav.scss",
+              "src/assets/css-codhuman/10-menu/codhuman-trilha-sugerida.scss",
+              "src/assets/css-codhuman/11-site/codhuman-artigo.scss",
+              "src/assets/css-codhuman/11-site/codhuman-conteudo.scss",
+              "src/assets/css-codhuman/11-site/codhuman-disciplinas.scss",
+              "src/assets/css-codhuman/11-site/codhuman-pessoa.scss",
+              "src/assets/css-codhuman/11-site/codhuman-quemsomos.scss",
+              "src/assets/css-codhuman/11-site/codhuman-reset.scss",
+              "src/assets/css-codhuman/11-site/codhuman-responsivo.scss",
+              "src/assets/css-codhuman/11-site/codhuman-rodape.scss",
+              "src/assets/css-codhuman/11-site/codhuman-sobre.scss",
+              "src/assets/css-codhuman/11-site/disciplina/disciplina-conteudo.scss",
+              "src/assets/css-codhuman/11-site/disciplina/disciplina-descricao.scss",
+              "src/assets/css-codhuman/11-site/disciplina/disciplina-imagem.scss",
+              "src/assets/css-codhuman/11-site/disciplina/disciplina-titulo.scss",
+              "src/assets/css-codhuman/11-site/disciplina/disciplina.scss",
+              "src/assets/css-codhuman/12-bordas/codhuman-bordas.scss",
+              "src/assets/css-codhuman-bootstrap/codhuman-bootstrap.scss",
+              "src/styles.scss"
+            ],
+            "scripts": []
+          },
+          "configurations": {
+            "production": {
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "500kb",
+                  "maximumError": "1mb"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "2kb",
+                  "maximumError": "4kb"
+                }
+              ],
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.prod.ts"
+                }
+              ],
+              "outputHashing": "all"
+            },
+            "development": {
+              "buildOptimizer": false,
+              "optimization": false,
+              "vendorChunk": true,
+              "extractLicenses": false,
+              "sourceMap": true,
+              "namedChunks": true
+            }
+          },
+          "defaultConfiguration": "production"
+        },
+        "serve": {
+          "builder": "@angular-devkit/build-angular:dev-server",
+          "configurations": {
+            "production": {
+              "buildTarget": "codhuman-angular:build:production"
+            },
+            "development": {
+              "buildTarget": "codhuman-angular:build:development"
+            }
+          },
+          "defaultConfiguration": "development"
+        },
+        "extract-i18n": {
+          "builder": "@angular-devkit/build-angular:extract-i18n",
+          "options": {
+            "buildTarget": "codhuman-angular:build"
+          }
+        },
+        "test": {
+          "builder": "@angular-devkit/build-angular:karma",
+          "options": {
+            "main": "src/test.ts",
+            "polyfills": "src/polyfills.ts",
+            "tsConfig": "tsconfig.spec.json",
+            "karmaConfig": "karma.conf.js",
+            "inlineStyleLanguage": "scss",
+            "assets": [
+              "src/favicon-codhuman.png",
+              "src/favicon.ico",
+              "src/assets",
+              "src/app/sections/08-so/01-linux/03-cmd/01-pwd/tema-08-so-01-linux-03-cmd-01-pwd/assets"
+            ],
+            "styles": [
+              "src/styles.scss",
+              "src/assets/css-codhuman-bootstrap/codhuman-bootstrap.scss",
+              "src/assets/css-codhuman/codhuman-artigo.scss",
+              "src/assets/css-codhuman/codhuman-bordas.scss",
+              "src/assets/css-codhuman/codhuman-botao.scss",
+              "src/assets/css-codhuman/codhuman-disciplinas.scss",
+              "src/assets/css-codhuman/codhuman-dropdown.scss",
+              "src/assets/css-codhuman/codhuman-icones.scss",
+              "src/assets/css-codhuman/codhuman-logo.scss",
+              "src/assets/css-codhuman/codhuman-trilha-sugerida.scss"
+            ],
+            "scripts": []
+          }
+        }
+      }
+    }
+  },
+  "cli": {
+    "analytics": false
+  }
+}

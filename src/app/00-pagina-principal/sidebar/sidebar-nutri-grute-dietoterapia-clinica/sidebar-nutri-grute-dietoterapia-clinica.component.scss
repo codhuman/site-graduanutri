@@ -1,0 +1,7 @@
+.nav-link[role="button"] {
+  cursor: pointer; /* Mostra o cursor de mão ao passar o mouse */
+  text-decoration: none; /* Remove sublinhado */
+}
+.nav-link[role="button"]:hover {
+  color: #007bff; /* Altere para a cor de hover desejada */
+}

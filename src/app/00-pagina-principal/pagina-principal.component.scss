@@ -1,0 +1,55 @@
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    "banner banner banner"
+    "sidebar content right-bar"
+    "footer footer footer";
+  grid-template-rows: auto 1fr auto; /* Altura do banner, conteúdo principal e rodapé */
+  grid-template-columns: 250px 1fr 150px; /* Larguras: sidebar, conteúdo, faixa direita */
+  height: 100vh;
+  // overflow: hidden; /* Evita scroll inesperado */
+}
+
+.grid-sidebar {
+  grid-area: sidebar;
+  background-color: #f8f9fa;
+  // padding: 20px;
+  overflow-y: auto; /* Permite rolagem se necessário */
+}
+
+.grid-banner {
+  grid-area: banner;
+  background-color: #01579b;
+  color: #ffffff;
+  text-align: center;
+  padding: 10px;
+  position: sticky; /* Fixa o banner no topo */
+  top: 0;
+  z-index: 10; /* Garante que o banner fique acima dos outros elementos */
+}
+
+.grid-content {
+  grid-area: content;
+  padding: 20px;
+  overflow-y: auto;
+  margin-top: 10px; /* Adiciona um pequeno espaçamento para segurança */
+}
+
+.grid-right-bar {
+  grid-area: right-bar;
+  background-color: #e9ecef;
+  padding: 10px;
+  overflow-y: auto;
+}
+
+.grid-footer {
+  grid-area: footer;
+  background-color: #343a40;
+  color: #ffffff;
+  text-align: center;
+  padding: 10px;
+  height: auto; /* Altura definida pelo conteúdo */
+  display: flex;
+  align-items: center; /* Alinha verticalmente */
+  justify-content: center; /* Centraliza horizontalmente */
+}

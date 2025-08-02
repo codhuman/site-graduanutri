@@ -1,0 +1,53 @@
+/* You can add global styles to this file, and also import other style files */
+:root {
+  --primary: #369c38;
+  --secondary: #132A13;
+  --padding: 15px;
+  --cinza : #405040;
+  --cinza-claro: #dedede;
+}
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+a{
+  color: inherit;
+}
+
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.container {
+  // max-width: 400px;
+  // padding: 30px;
+
+  // Sintaxe: margin: [top] [right] [bottom] [left];
+  // margin: 0 auto;
+  margin-top: 20px;    /* Apenas margem superior */
+  margin-right: auto;  /* Margem direita calculada automaticamente */
+  margin-bottom: 10%;  /* Margem inferior como 10% da largura do pai */
+  margin-left: 130px;   /* Margem fixa à esquerda */
+
+  display: flex;
+  // width: 100%;
+  // height: 100vh; /* Ocupa a altura total da viewport */
+}
+
+
+/* Estilo para links e itens da navegação */
+.nav-link {
+  color: #333;
+}
+
+.nav-link:hover {
+  color: #007bff;
+}
+
+/* Efeito ativo para o link */
+.nav-link.active {
+  color: #FFFFFF; /* Cor para o link ativo */
+}

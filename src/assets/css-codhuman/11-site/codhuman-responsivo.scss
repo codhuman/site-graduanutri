@@ -1,0 +1,62 @@
+
+/* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
+
+/* Celulares */
+@media screen and (min-width: 0px) {
+  .ini-conteudo {
+    font-size: x-small;
+    margin-top: 289px;
+    margin-left: -13px;
+    position: relative;
+  }
+}
+/* 
+@media (max-width: 576px) {
+  .ini-conteudo {
+    font-size: x-small;
+    margin-top: 289px;
+    margin-left: -13px;
+    position: relative;
+  }
+} */
+
+/* Tablets */
+@media screen and (min-width: 768px) {
+  .ini-conteudo {
+    margin-top: 55px;
+    margin-left: -13px;
+    position: relative;
+  }
+}
+
+/* Desktop */
+@media screen and (min-width: 992px) {
+  .ini-conteudo {
+    margin-top: 55px;
+    margin-left: -13px;
+    position: relative;
+  }
+}
+/* 
+@media (min-width: 577px) {
+  .ini-conteudo {
+    margin-top: 55px;
+    margin-left: -13px;
+    position: relative;
+  }
+}
+
+@media screen and (max-width:480px){
+  .ini-conteudo {
+    width: auto;
+  }
+
+  h1{
+    text-align: center;
+  }
+
+  nav{
+    position: static;
+  }
+}
+ */

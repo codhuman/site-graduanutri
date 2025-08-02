@@ -1,0 +1,56 @@
+.breadcrumb {
+  background-color: #f8f9fa;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 14px;
+}
+.breadcrumb-item {
+  color: #007bff;
+  text-decoration: none;
+}
+.breadcrumb-item.active {
+  color: #6c757d;
+}
+
+// Estilos para o componente de navegação
+
+.navegacao {
+  display: flex;
+  align-items: center;
+  padding: 15px 20px;
+  background-color: #f8f9fa; // Cor de fundo similar ao sidebar
+  border-bottom: 1px solid #ddd; // Linha separadora para uma aparência mais clara
+  font-family: Arial, sans-serif;
+  color: #333; // Cor do texto
+
+  .breadcrumb {
+    display: flex;
+    align-items: center;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    font-size: 14px;
+    gap: 8px; // Espaçamento entre os itens do breadcrumb
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+      color: #007bff; // Cor azul para os itens do breadcrumb
+      cursor: pointer;
+
+      &:hover {
+        text-decoration: underline; // Efeito de sublinhado ao passar o mouse
+      }
+
+      &::after {
+        content: '>'; // Separador entre os itens
+        margin: 0 5px;
+        color: #6c757d; // Cor do separador
+      }
+
+      &:last-child::after {
+        content: ''; // Remove o separador do último item
+      }
+    }
+  }
+}

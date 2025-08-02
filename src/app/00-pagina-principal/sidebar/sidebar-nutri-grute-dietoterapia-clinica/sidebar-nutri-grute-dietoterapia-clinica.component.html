@@ -1,0 +1,59 @@
+          <!-- Dropdown de Sistemas Operacionais -->
+          <li class="nav-item">
+            <a
+              class="nav-link dropdown-toggle"
+              href="#"
+              id="osDropdown"
+              role="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#osMenu"
+              aria-expanded="false"
+              aria-controls="osMenu"
+            >
+              Dietoterapia Clínica
+            </a>
+            <div id="osMenu" class="collapse">
+              <ul class="nav flex-column ms-3">
+                <li class="nav-item">
+                  <a
+                    class="nav-link dropdown-toggle"
+                    href="#"
+                    data-bs-toggle="collapse"
+                    data-bs-target="#linuxMenu"
+                    aria-expanded="false"
+                    aria-controls="linuxMenu"
+                    >Linux</a
+                  >
+                  <div id="linuxMenu" class="collapse">
+                    <ul class="nav flex-column ms-3">
+                      <li class="nav-item">
+                        <a
+                          class="nav-link dropdown-toggle"
+                          href="#"
+                          data-bs-toggle="collapse"
+                          data-bs-target="#comandosMenu"
+                          aria-expanded="false"
+                          aria-controls="comandosMenu"
+                          >Comandos</a
+                        >
+                        <div id="comandosMenu" class="collapse">
+                          <ul class="nav flex-column ms-3">
+                            <li class="nav-item">
+                              <a class="nav-link" href="#" (click)="onLinuxClick($event)">pwd</a>
+
+                            </li>
+                          </ul>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Teoria</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Windows</a>
+                </li>
+              </ul>
+            </div>
+          </li>

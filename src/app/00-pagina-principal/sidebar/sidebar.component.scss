@@ -1,0 +1,173 @@
+//**********************************************************************************************
+//**********************************************************************************************
+// Estilos da Sidebar
+//**********************************************************************************************
+//**********************************************************************************************
+
+/* Estilo para a sidebar */
+.sidebar {
+  flex: 0 0 300px; /* largura fixa para sidebar */
+  position: sticky;
+  top: 0;
+  width: 100%; /* Deixe a largura controlada pela grid */
+  max-height: 100vh;
+  background-color: #f8f9fa;
+  overflow-y: scroll;
+  padding: 0 12px 10px 12px; /* padding horizontal nos dois lados */
+  box-sizing: border-box;
+  scrollbar-width: thin; /* Firefox */
+  scrollbar-color: #888 #f1f1f1;
+}
+
+
+/* Scrollbar no Chrome, Edge, Safari */
+.sidebar::-webkit-scrollbar {
+  width: 10px;
+}
+.sidebar::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+.sidebar::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 5px;
+}
+.sidebar::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+
+
+/* Estilo para o link da logo */
+.logo-text {
+  display: flex;
+  align-items: center;
+  justify-content: left; /* Centraliza o texto horizontalmente */
+  font-family: 'Manrope', sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 120%;
+  letter-spacing: 0.4px;
+  background-color: #01579B; /* Azul mais escuro */
+  width: 100%; /* Largura total para corresponder à sidebar */
+  // padding: 15px 0; /* Espaçamento interno ajustado para consistência */
+  border-radius: 0; /* Sem bordas arredondadas para um visual mais consistente com a sidebar */
+  color: #FFFFFF; /* Cor da fonte branca para melhor contraste */
+  text-align: left; /* Centraliza o texto no centro do retângulo */
+}
+
+//**********************************************************************************************
+//**********************************************************************************************
+// Estilos de Navegação e Menus
+//**********************************************************************************************
+//**********************************************************************************************
+
+/* Estilo para links e itens da navegação */
+.nav-link {
+  color: #333;
+}
+
+.nav-link:hover {
+  color: #007bff;
+}
+
+/* Efeito ativo para o link */
+.nav-link.active {
+  color: #FFFFFF; /* Cor para o link ativo */
+}
+
+/* Define o tamanho menor da fonte para todos os itens no dropdown */
+.dropdown-menu .dropdown-item {
+  font-size: 0.75rem;
+}
+
+/* Estilo para o submenu */
+.dropdown-submenu {
+  position: relative;
+}
+
+.dropdown-submenu .dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 100%;
+  margin-top: -1px;
+}
+
+.dropdown-submenu:hover .dropdown-menu {
+  display: block;
+}
+
+/* Estilo para o texto do divisor no dropdown */
+.dropdown-divider-text {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-weight: bold;
+  color: #6c757d;
+  font-size: 0.5rem;
+  margin: 0.5rem 0;
+}
+
+.dropdown-divider-text::before,
+.dropdown-divider-text::after {
+  content: "";
+  flex: 1;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.dropdown-divider-text::before {
+  margin-right: 0.5em;
+}
+
+.dropdown-divider-text::after {
+  margin-left: 0.5em;
+}
+
+
+//**********************************************************************************************
+//**********************************************************************************************
+// Estilos de Ícones e Bordas
+//**********************************************************************************************
+//**********************************************************************************************
+
+.icon-layer {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+
+.outer-border,
+.inner-border {
+  border: 1.5px solid #44408A;
+  position: absolute;
+}
+
+.outer-border {
+  width: 16.67px;
+  height: 16.67px;
+  left: 1.67px;
+  top: 1.67px;
+}
+
+.inner-border {
+  width: 9.49px;
+  height: 9.50px;
+  left: 5.04px;
+  top: 5.46px;
+}
+
+.expand-icon {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: rotate(90deg);
+}
+
+.arrow-icon {
+  width: 6.67px;
+  height: 8px;
+  background: #7E7BB2;
+}

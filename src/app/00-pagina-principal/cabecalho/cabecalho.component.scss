@@ -1,0 +1,9 @@
+.header {
+  background-color: #01579B; // Cor azul igual ao fundo do CodHuman
+  height: 64px; // Ajuste a altura conforme necessário para a faixa
+  width: 100%; // Ocupa toda a largura da página
+  position: fixed; // Fixa o cabeçalho no topo
+  top: 0; // Posiciona no topo da página
+  left: 0; // Posiciona à esquerda
+  z-index: 1000; // Garante que o cabeçalho fique acima de outros elementos
+}

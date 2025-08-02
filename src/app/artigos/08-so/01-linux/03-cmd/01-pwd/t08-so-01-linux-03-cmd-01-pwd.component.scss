@@ -1,0 +1,46 @@
+.artigo-main {
+  max-width: 70%; /* Limita a largura do conteúdo */
+  margin: 0 auto; /* Centraliza o artigo */
+  line-height: 1.8; /* Aumenta o espaço entre linhas */
+  font-family: 'Manrope', sans-serif;
+  color: #333;
+}
+
+.article-header h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.article-section {
+  margin-bottom: 40px;
+}
+
+.image-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px auto;
+  max-width: 100%;
+}
+
+.image-center img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.image-center figcaption {
+  margin-top: 10px;
+  font-size: 0.9rem;
+  color: #666;
+  text-align: center;
+}
+
+.section-title {
+  font-size: 1.8rem;
+  margin-bottom: 15px;
+  text-align: center;
+  color: #01579b;
+}

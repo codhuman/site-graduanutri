@@ -1,0 +1,47 @@
+/* Define o tamanho menor da fonte para todos os itens no dropdown */
+.dropdown-menu .dropdown-item {
+  font-size: 0.75rem;
+}
+
+/* Estilo para o submenu */
+.dropdown-submenu {
+  position: relative;
+}
+
+.dropdown-submenu .dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 100%;
+  margin-top: -1px;
+}
+
+.dropdown-submenu:hover .dropdown-menu {
+  display: block;
+}
+
+/* Estilo para o texto do divisor no dropdown */
+.dropdown-divider-text {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-weight: bold;
+  color: #6c757d;
+  font-size: 0.5rem;
+  margin: 0.5rem 0;
+}
+
+.dropdown-divider-text::before,
+.dropdown-divider-text::after {
+  content: "";
+  flex: 1;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.dropdown-divider-text::before {
+  margin-right: 0.5em;
+}
+
+.dropdown-divider-text::after {
+  margin-left: 0.5em;
+}

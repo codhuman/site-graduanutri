@@ -1,0 +1,75 @@
+//**********************************************************************************************
+//**********************************************************************************************
+// Elementos Track
+//**********************************************************************************************
+//**********************************************************************************************
+
+.suggested-track {
+  width: 250px;
+  background: #DAD9F5;
+  border-radius: 0px;
+  display: flex;
+  flex-direction: column;
+}
+
+.track-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+
+.track-title-container {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.track-icon {
+  width: 20px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.track-title {
+  font-family: 'Manrope', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  color: #44408A;
+  letter-spacing: 0.28px;
+}
+
+.track-list {
+  display: flex;
+  flex-direction: column;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-left: 0;
+  margin-left: 10px;
+  list-style: none;
+}
+
+.track-item {
+  width: 172px;
+  font-family: 'Manrope', sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  letter-spacing: 0.28px;
+  color: #7D7A89;
+  text-decoration: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+  transition: background 0.3s, color 0.3s;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.track-item:hover {
+  background-color: #bfbee6;
+  color: #FFF;
+}

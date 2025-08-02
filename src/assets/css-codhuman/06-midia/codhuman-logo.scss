@@ -1,0 +1,18 @@
+/* Estilo para o link da logo */
+.logo-text {
+  display: flex;
+  align-items: center;
+  justify-content: left; /* Centraliza o texto horizontalmente */
+  font-family: 'Manrope', sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 120%;
+  letter-spacing: 0.4px;
+  background-color: #01579B; /* Azul mais escuro */
+  width: 100%; /* Largura total para corresponder à sidebar */
+  // padding: 15px 0; /* Espaçamento interno ajustado para consistência */
+  border-radius: 0; /* Sem bordas arredondadas para um visual mais consistente com a sidebar */
+  color: #FFFFFF; /* Cor da fonte branca para melhor contraste */
+  text-align: left; /* Centraliza o texto no centro do retângulo */
+}

@@ -1,0 +1,26 @@
+.codhuman__sidenav {
+  background-color: #111;
+  /* bottom: 60px; */
+  height: 96%;
+  left: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+  position: fixed;
+  top: 34px;
+  width: 280px;
+  z-index: 1;
+}
+
+.codhuman__sidenav a {
+  color: #000000;
+  display: block;
+  font-size: 25px;
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+}
+
+.codhuman__sidenav a:hover {
+  color: #000000;
+  background-color: bisque;
+}
+

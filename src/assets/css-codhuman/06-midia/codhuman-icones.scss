@@ -1,0 +1,19 @@
+.icon-layer {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.expand-icon {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: rotate(90deg);
+}
+
+.arrow-icon {
+  width: 6.67px;
+  height: 8px;
+  background: #7E7BB2;
+}

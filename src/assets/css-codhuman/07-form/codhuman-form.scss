@@ -1,0 +1,47 @@
+.codhuman__form {
+  margin-top: 50px;
+  margin-left: 50px;
+  width: 40px 0;
+}
+
+.codhuman__form__label, .codhuman__form__legend  { 
+  display: block;
+  font-size: 20px;
+  margin: 0 0 10px;
+}
+
+.codhuman__form__input__padrao {
+  display: block;
+  margin: 0 0 20px;
+  padding: 10px 25px;
+  width: 50%;
+}
+
+.codhuman__form__checkbox {
+  margin: 20px 0;
+}
+
+.codhuman__form__enviar {
+  background: orange;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 15px 0;
+  transition: 1s all;
+  width: 40%;
+}
+
+.codhuman__form__enviar:hover {
+  background: darkorange;
+
+  /* Aumenta em 20% */
+  transform: scale(1.2); 
+
+  /* transform: rotate(10deg) scale(1.2);  */
+  /* transform: rotate(10deg); */
+}
+
+

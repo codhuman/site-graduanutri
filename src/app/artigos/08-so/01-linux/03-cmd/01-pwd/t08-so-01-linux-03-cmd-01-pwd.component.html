@@ -1,0 +1,125 @@
+<article class="artigo-main">
+  <header class="article-header">
+    <h1>Comando pwd</h1>
+  </header>
+
+  <section id="o-que-e" class="article-section">
+    <h2 class="section-title">O que é o comando pwd?</h2>
+    <p>
+      O comando pwd é um comando que utilizamos para descobrir o caminho completo do diretório em que o usuário que estamos utilizando está no momento em que digitamos o comando.
+    </p>
+    <p>O comando pwd é bastante útil em três momentos:</p>
+    <ul>
+      <li>
+        Quando o caminho do diretório em que estamos é muito grande e queremos copiá-lo para algum parâmetro de um outro comando que estamos utilizando.
+      </li>
+      <li>
+        Quando navegamos por tantos diretórios que nem lembramos mais direito onde estamos.
+      </li>
+      <li>
+        Quando queremos que um script obtenha e utilize o caminho completo do diretório atual em algum processamento interno.
+      </li>
+    </ul>
+  </section>
+
+  <figure class="image-center">
+    <img
+      src="assets/08-sistemas-operacionais2/01-linux/03-comandos-shell/01-pwd/assets/img/ficha-001.png"
+      alt="Comando pwd - Ficha 001"
+    />
+    <figcaption>Figura 1: Demonstração do comando pwd.</figcaption>
+  </figure>
+
+  <section id="sintaxe" class="article-section">
+    <h2 class="section-title">Sintaxe do comando pwd</h2>
+    <p>A sintaxe do comando pwd é composta por dois elementos:</p>
+    <ul>
+      <li>O comando pwd</li>
+      <li>Opções</li>
+    </ul>
+    <p>O comando pwd pode ser utilizado sem nenhuma opção ou com uma das quatro opções disponíveis:</p>
+    <ul>
+      <li>-L - Exibe o link simbólico que faz referência à pasta atual do usuário</li>
+      <li>-P - Exibe o caminho real (físico) da pasta atual do usuário</li>
+      <li>--help - Exibe a ajuda do comando pwd</li>
+      <li>--version - Exibe a versão do comando pwd</li>
+    </ul>
+    <p>O comando pwd sem nenhuma opção funciona da mesma forma que o comando pwd -L.</p>
+  </section>
+
+  <figure class="image-center">
+    <img
+      src="assets/img/article-image2.jpg"
+      alt="Imagem ilustrativa da sintaxe do comando pwd"
+    />
+    <figcaption>Figura 2: Sintaxe do comando pwd.</figcaption>
+  </figure>
+
+  <section id="opcoes" class="article-section">
+    <h2 class="section-title">Lista de Opções do pwd</h2>
+    <p>O comando pwd possui as 4 opções listadas abaixo:</p>
+    <ul>
+      <li>-L -> Logical – Caminho Lógico</li>
+      <li>-P -> Physical – Caminho Físico</li>
+      <li>--help -> Ajuda</li>
+      <li>--version -> Versão</li>
+    </ul>
+  </section>
+
+  <section id="pwd-l" class="article-section">
+    <h2 class="section-title">pwd -L</h2>
+    <p>
+      O comando pwd utilizando a opção –L exibe o link simbólico que faz referência à pasta atual do usuário. Um link simbólico é um atalho para uma pasta ou arquivo e é criado com o comando ln –s.
+    </p>
+  </section>
+
+  <section id="pwd-p" class="article-section">
+    <h2 class="section-title">pwd -P</h2>
+    <p>
+      O comando pwd utilizando a opção –P exibe o caminho físico da pasta atual do usuário. Na figura abaixo, podemos ver a diferença entre o comando utilizando a opção –L e –P.
+    </p>
+  </section>
+
+  <section id="pwd-sem-opcao" class="article-section">
+    <h2 class="section-title">pwd “sem opção”</h2>
+    <p>
+      O comando pwd sem nenhuma opção funciona da mesma forma que o comando pwd –L, ou seja, exibe o link simbólico que faz referência à pasta atual do usuário.
+    </p>
+  </section>
+
+  <section id="pwd-help" class="article-section">
+    <h2 class="section-title">pwd --help</h2>
+    <p>
+      O comando pwd utilizando a opção --help exibe a ajuda do comando pwd. A opção --help é comum a quase todos os comandos do Linux, senão todos, e funciona como um mini manual do comando.
+    </p>
+    <p>
+      No caso do comando pwd, a opção --help exibe a descrição do comando, a lista de opções, como funciona o default (pwd sem nenhuma opção) e também o “Exit Status”. O “Exit Status” é o estado de saída do comando após a sua execução, que no caso, retorna zero quando comando pwd é executado com sucesso.
+    </p>
+  </section>
+
+  <section id="pwd-version" class="article-section">
+    <h2 class="section-title">pwd --version</h2>
+    <p>
+      O comando pwd utilizando a opção --version exibe a versão do comando pwd juntamente com outras informações, tais como:
+    </p>
+    <ul>
+      <li>O Copyright – direitos de cópia</li>
+      <li>O tipo de Licença, que neste caso é do tipo GPLv3+</li>
+      <li>Orientações sobre software livre</li>
+      <li>O nome do autor do comando pwd, que neste caso é Jim Meyering</li>
+    </ul>
+  </section>
+
+  <section id="vamos-praticar" class="article-section">
+    <h2 class="section-title">Vamos praticar?</h2>
+    <p>
+      Preparamos 10 atividades para que você possa praticar o comando pwd e ao mesmo tempo iniciar o estudo de criação de scripts para automatizar suas tarefas e atividades no Linux.
+    </p>
+    <p>
+      Dividimos essas atividades em dois grupos; 5 scripts de nível básico e 5 scripts de nível intermediário.
+    </p>
+    <p>
+      Ao final, daremos também uma breve descrição de cada comando e instrução diferente do comando pwd para que você compreenda melhor o funcionamento de cada script.
+    </p>
+  </section>
+</article>

@@ -1,0 +1,523 @@
+ O volume na unidade D ‚ M202TB01-WORK
+ O N£mero de S‚rie do Volume ‚ 1214-7E50
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src
+
+01/08/2025  20:07    <DIR>          .
+01/08/2025  20:07    <DIR>          ..
+25/07/2025  20:15    <DIR>          app
+25/07/2025  20:15    <DIR>          assets
+25/07/2025  20:15    <DIR>          environments
+25/07/2025  20:15    <DIR>          models
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app
+
+25/07/2025  20:15    <DIR>          .
+01/08/2025  20:07    <DIR>          ..
+25/07/2025  20:15    <DIR>          00-pagina-principal
+25/07/2025  23:58    <DIR>          artigos
+25/07/2025  20:15    <DIR>          sections
+25/07/2025  20:15    <DIR>          services
+25/07/2025  20:15    <DIR>          zz-prototipos
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\00-pagina-principal
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+25/07/2025  20:15    <DIR>          banner
+25/07/2025  20:15    <DIR>          cabecalho
+25/07/2025  20:15    <DIR>          navegacao
+01/08/2025  20:02    <DIR>          sidebar
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\00-pagina-principal\banner
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\00-pagina-principal\cabecalho
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\00-pagina-principal\navegacao
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\00-pagina-principal\sidebar
+
+01/08/2025  20:02    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+01/08/2025  19:53    <DIR>          sidebar-nutri-grute-alimentos-tecnologia
+01/08/2025  19:59    <DIR>          sidebar-nutri-grute-avaliacao-nutricional
+30/07/2025  20:57    <DIR>          sidebar-nutri-grute-bases-biomedicas
+01/08/2025  20:01    <DIR>          sidebar-nutri-grute-dietoterapia-clinica
+30/07/2025  21:10    <DIR>          sidebar-nutri-grute-microbiologia-higiene
+01/08/2025  19:57    <DIR>          sidebar-nutri-grute-nutricao-dietetica
+01/08/2025  20:02    <DIR>          sidebar-nutri-grute-psicologia-relacoes
+25/07/2025  20:15    <DIR>          sidebar-publicacoes-recentes
+25/07/2025  20:15    <DIR>          sidebar-trilha-sugerida
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\00-pagina-principal\sidebar\sidebar-nutri-grute-alimentos-tecnologia
+
+01/08/2025  19:53    <DIR>          .
+01/08/2025  20:02    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\00-pagina-principal\sidebar\sidebar-nutri-grute-avaliacao-nutricional
+
+01/08/2025  19:59    <DIR>          .
+01/08/2025  20:02    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\00-pagina-principal\sidebar\sidebar-nutri-grute-bases-biomedicas
+
+30/07/2025  20:57    <DIR>          .
+01/08/2025  20:02    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\00-pagina-principal\sidebar\sidebar-nutri-grute-dietoterapia-clinica
+
+01/08/2025  20:01    <DIR>          .
+01/08/2025  20:02    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\00-pagina-principal\sidebar\sidebar-nutri-grute-microbiologia-higiene
+
+30/07/2025  21:10    <DIR>          .
+01/08/2025  20:02    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\00-pagina-principal\sidebar\sidebar-nutri-grute-nutricao-dietetica
+
+01/08/2025  19:57    <DIR>          .
+01/08/2025  20:02    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\00-pagina-principal\sidebar\sidebar-nutri-grute-psicologia-relacoes
+
+01/08/2025  20:02    <DIR>          .
+01/08/2025  20:02    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\00-pagina-principal\sidebar\sidebar-publicacoes-recentes
+
+25/07/2025  20:15    <DIR>          .
+01/08/2025  20:02    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\00-pagina-principal\sidebar\sidebar-trilha-sugerida
+
+25/07/2025  20:15    <DIR>          .
+01/08/2025  20:02    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\artigos
+
+25/07/2025  23:58    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+25/07/2025  23:58    <DIR>          01-higiene-alimentos
+16/11/2024  12:40    <DIR>          07-lng
+25/07/2025  20:15    <DIR>          08-so
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\artigos\01-higiene-alimentos
+
+25/07/2025  23:58    <DIR>          .
+25/07/2025  23:58    <DIR>          ..
+25/07/2025  23:58    <DIR>          01-bibliografia
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\artigos\01-higiene-alimentos\01-bibliografia
+
+25/07/2025  23:58    <DIR>          .
+25/07/2025  23:58    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\artigos\07-lng
+
+16/11/2024  12:40    <DIR>          .
+25/07/2025  23:58    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\artigos\08-so
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  23:58    <DIR>          ..
+25/07/2025  20:15    <DIR>          01-linux
+30/10/2024  23:06    <DIR>          02-windows
+30/10/2024  23:06    <DIR>          03-teoria
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\artigos\08-so\01-linux
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+25/07/2025  20:15    <DIR>          03-cmd
+31/10/2024  19:48    <DIR>          12-sis-ini
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\artigos\08-so\01-linux\03-cmd
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+31/10/2024  20:22    <DIR>          00-teoria
+25/07/2025  20:15    <DIR>          01-pwd
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\artigos\08-so\01-linux\03-cmd\00-teoria
+
+31/10/2024  20:22    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\artigos\08-so\01-linux\03-cmd\01-pwd
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\artigos\08-so\01-linux\12-sis-ini
+
+31/10/2024  19:48    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\artigos\08-so\02-windows
+
+30/10/2024  23:06    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\artigos\08-so\03-teoria
+
+30/10/2024  23:06    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\sections
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+25/07/2025  20:15    <DIR>          00-ini
+30/10/2024  22:48    <DIR>          01-tri
+25/07/2025  20:15    <DIR>          02-pub-rec
+30/07/2025  21:00    <DIR>          03-cc
+30/10/2024  23:02    <DIR>          04-dados
+30/10/2024  23:04    <DIR>          05-devops
+30/10/2024  23:04    <DIR>          06-hard
+30/10/2024  23:04    <DIR>          07-lng
+16/11/2024  13:01    <DIR>          08-so
+25/07/2025  20:15    <DIR>          artigo
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\sections\00-ini
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+17/11/2024  12:39    <DIR>          code
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\sections\00-ini\code
+
+17/11/2024  12:39    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\sections\01-tri
+
+30/10/2024  22:48    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\sections\02-pub-rec
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\sections\03-cc
+
+30/07/2025  21:00    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\sections\04-dados
+
+30/10/2024  23:02    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\sections\05-devops
+
+30/10/2024  23:04    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\sections\06-hard
+
+30/10/2024  23:04    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\sections\07-lng
+
+30/10/2024  23:04    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\sections\08-so
+
+16/11/2024  13:01    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\sections\artigo
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\services
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\zz-prototipos
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+25/07/2025  20:15    <DIR>          prototipo-botoes-rotas
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\app\zz-prototipos\prototipo-botoes-rotas
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\assets
+
+25/07/2025  20:15    <DIR>          .
+01/08/2025  20:07    <DIR>          ..
+25/07/2025  20:15    <DIR>          08-sistemas-operacionais2
+25/07/2025  20:15    <DIR>          css
+25/07/2025  20:15    <DIR>          css-codhuman
+25/07/2025  20:15    <DIR>          css-codhuman-bootstrap
+25/07/2025  20:15    <DIR>          img
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\assets\08-sistemas-operacionais2
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+25/07/2025  20:15    <DIR>          01-linux
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\assets\08-sistemas-operacionais2\01-linux
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+25/07/2025  20:15    <DIR>          03-comandos-shell
+31/10/2024  21:12    <DIR>          12-sistemas-inicializacao
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\assets\08-sistemas-operacionais2\01-linux\03-comandos-shell
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+31/10/2024  21:12    <DIR>          00-teoria
+25/07/2025  20:15    <DIR>          01-pwd
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\assets\08-sistemas-operacionais2\01-linux\03-comandos-shell\00-teoria
+
+31/10/2024  21:12    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\assets\08-sistemas-operacionais2\01-linux\03-comandos-shell\01-pwd
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+25/07/2025  20:15    <DIR>          assets
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\assets\08-sistemas-operacionais2\01-linux\03-comandos-shell\01-pwd\assets
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+25/07/2025  20:15    <DIR>          img
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\assets\08-sistemas-operacionais2\01-linux\03-comandos-shell\01-pwd\assets\img
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\assets\08-sistemas-operacionais2\01-linux\12-sistemas-inicializacao
+
+31/10/2024  21:12    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\assets\css
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\assets\css-codhuman
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+25/07/2025  20:15    <DIR>          01-estrutural
+20/11/2024  11:37    <DIR>          02-cabecalho
+20/11/2024  11:37    <DIR>          03-texto
+20/11/2024  11:37    <DIR>          04-link
+20/11/2024  11:38    <DIR>          05-lista
+25/07/2025  20:15    <DIR>          06-midia
+25/07/2025  20:15    <DIR>          07-form
+25/07/2025  20:15    <DIR>          08-table
+25/07/2025  20:15    <DIR>          09-semantico
+25/07/2025  20:15    <DIR>          10-menu
+25/07/2025  20:15    <DIR>          11-site
+25/07/2025  20:15    <DIR>          12-bordas
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\assets\css-codhuman\01-estrutural
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\assets\css-codhuman\02-cabecalho
+
+20/11/2024  11:37    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\assets\css-codhuman\03-texto
+
+20/11/2024  11:37    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\assets\css-codhuman\04-link
+
+20/11/2024  11:37    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\assets\css-codhuman\05-lista
+
+20/11/2024  11:38    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\assets\css-codhuman\06-midia
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\assets\css-codhuman\07-form
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\assets\css-codhuman\08-table
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\assets\css-codhuman\09-semantico
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\assets\css-codhuman\10-menu
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\assets\css-codhuman\11-site
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+25/07/2025  20:15    <DIR>          disciplina
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\assets\css-codhuman\11-site\disciplina
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\assets\css-codhuman\12-bordas
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\assets\css-codhuman-bootstrap
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\assets\img
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+25/07/2025  20:15    <DIR>          disciplinas
+25/07/2025  20:15    <DIR>          pessoas
+25/07/2025  20:15    <DIR>          tema-08-sistemas-operacionais-01-linux-03-comandos-shell-01-pwd
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\assets\img\disciplinas
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\assets\img\pessoas
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\assets\img\tema-08-sistemas-operacionais-01-linux-03-comandos-shell-01-pwd
+
+25/07/2025  20:15    <DIR>          .
+25/07/2025  20:15    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\environments
+
+25/07/2025  20:15    <DIR>          .
+01/08/2025  20:07    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri\src\models
+
+25/07/2025  20:15    <DIR>          .
+01/08/2025  20:07    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+     Total de Arquivos na Lista:
+               0 arquivo(s)              0 bytes
+             221 pasta(s)   792.454.651.904 bytes dispon¡veis

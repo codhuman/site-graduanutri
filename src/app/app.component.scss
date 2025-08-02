@@ -1,0 +1,31 @@
+header {
+  background-color: var(--primary);
+  padding: 10px;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .ativo {
+    display: none;
+  }
+}
+
+/* Estilo para o layout principal */
+main {
+  background-color: #fcfcfc;
+  // padding: var(--padding);
+  display: flex;
+}
+
+
+/* Estilo para o conteúdo principal */
+.main-content {
+  width: 100%;
+  // padding: 20px;
+  margin-left: 0px; /* Margem para corresponder à largura da sidebar */
+}
