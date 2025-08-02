@@ -6,7 +6,6 @@
 
 /* Estilo para a sidebar */
 .sidebar {
-  flex: 0 0 300px; /* largura fixa para sidebar */
   position: sticky;
   top: 0;
   width: 100%; /* Deixe a largura controlada pela grid */
@@ -19,6 +18,10 @@
   scrollbar-color: #888 #f1f1f1;
 }
 
+.grid-sidebar {
+  display: grid;
+  grid-template-columns: 300px auto; /* Aumenta a largura real da sidebar */
+}
 
 /* Scrollbar no Chrome, Edge, Safari */
 .sidebar::-webkit-scrollbar {
