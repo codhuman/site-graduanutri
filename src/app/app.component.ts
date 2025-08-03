@@ -19,5 +19,5 @@ import { RouterModule } from '@angular/router';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'codhuman-angular';
+  title = 'graduanutri-angular';
 }
