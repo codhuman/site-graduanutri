@@ -1,0 +1,38 @@
+# 🚀 Deploy Consolidado — CodHuman Angular v06
+
+Este roteiro descreve todas as etapas necessárias para empacotar, enviar, construir e implantar o projeto Angular **CodHuman v06** em um servidor com Tomcat e Nginx.
+
+---
+
+## 📦 Etapas de Deploy
+
++----+-----------------------------------------------------------+---------------------------------------------------------------------------------------------------------+
+| Nr | Descrição do Comando                                      | Comando                                                                                                 |
++----+-----------------------------------------------------------+---------------------------------------------------------------------------------------------------------+
+| 01 | Acessar o diretório do projeto Angular no Windows         | cd D:\60-codhuman-ws\codhumandevmaster\site-graduanutri\graduanutri                                     |
+| 02 | Compactar os arquivos necessários para o build            | tar -czvf projeto-graduanutri-v01.tar.gz angular.json package.json package-lock.json tsconfig*.json src |
+| 03 | Enviar o arquivo compactado para o servidor VPS           | scp projeto-graduanutri-v01.tar.gz root@147.79.82.174:/codhuman-ftp/                                    |
+| 04 | Acessar o servidor via SSH                                | ssh root@147.79.82.174                                                                                  |
+| 05 | Criar a pasta de destino no servidor                      | mkdir -p /codhuman-ftp/site-graduanutri-angular-v01                                                     |
+| 06 | Descompactar o projeto na pasta correta                   | tar -xzvf /codhuman-ftp/projeto-graduanutri-v01.tar.gz -C /codhuman-ftp/site-graduanutri-angular-v01    |
+| 07 | Entrar no diretório extraído                              | cd /codhuman-ftp/site-graduanutri-angular-v01                                                           |
+| 08 | Instalar dependências do projeto                          | npm install                                                                                             |
+| 09 | Fazer o build de produção com base-href definido          | ng build --configuration production --base-href /                                                       |
+| 10 | Criar a pasta de deploy no Tomcat                         | mkdir /opt/tomcat/webapps/site-graduanutri-angular-v01                                                  |
+| 11 | Copiar os arquivos compilados para o Tomcat               | cp -r dist/graduanutri-angular/* /opt/tomcat/webapps/site-graduanutri-angular-v01/                      |
+| 12 | Editar o arquivo de configuração do Nginx                 | sudo nano /etc/nginx/sites-available/graduanutri.com                                                    |
+| 13 | Reiniciar o Nginx                                         | sudo systemctl restart nginx                                                                            |
+| 14 | Editar o arquivo de configuração do Tomcat                | sudo nano /opt/tomcat/conf/server.xml                                                                   |
+| 15 | Reiniciar o Tomcat                                        | sudo systemctl restart tomcat                                                                           |
++----+-----------------------------------------------------------+---------------------------------------------------------------------------------------------------------+
+
+
+---
+
+✅ Após esses passos, o site estará disponível em:
+
+
+https://codhuman.com
+
+
+Certifique-se de que o build foi realizado com --base-href / e que o conteúdo foi copiado corretamente para o Tomcat
