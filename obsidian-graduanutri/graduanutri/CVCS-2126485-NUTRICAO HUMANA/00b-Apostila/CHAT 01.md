@@ -1,0 +1,1 @@
+Quer que eu gere uma versão com espaços de resposta editáveis (blocos >) ou com templates de cálculo (EER/IMC, NDPCAL%, BN) preenchíveis?

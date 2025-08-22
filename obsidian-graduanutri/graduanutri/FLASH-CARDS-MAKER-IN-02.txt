@@ -1,0 +1,30 @@
+Assunto: Introdução à Anatomia (Síntese)
+Qual é a definição de posição anatômica padrão?|Em pé, olhar à frente, braços ao lado do corpo, palmas voltadas para frente, pés paralelos.|Posição Anatômica
+Quais são as três vistas principais do corpo humano?|Anterior (frontal), posterior (dorsal) e lateral (direita/esquerda).|Posição Anatômica
+Quais são os três planos anatômicos seccionais principais?|Sagital, frontal (coronal) e transversal (horizontal).|Planos Anatômicos
+O que diferencia o plano sagital mediano dos demais planos sagitais?|O mediano passa exatamente na linha média, dividindo o corpo em metades direita e esquerda.|Planos Anatômicos
+Defina medial e lateral.|Medial: próximo da linha média; Lateral: afastado da linha média.|Termos Direcionais
+Defina proximal e distal.|Proximal: perto da raiz do membro; Distal: longe da raiz do membro.|Termos Direcionais
+Defina superior (cranial) e inferior (caudal).|Superior: em direção à cabeça; Inferior: em direção ao cóccix/pés.|Termos Direcionais
+Quais são as principais regiões do corpo na descrição anatômica?|Cabeça, pescoço, tórax, abdome, pelve/períneo, membros superiores e inferiores.|Cavidades e Regiões
+Qual é o osso do braço (ombro ao cotovelo)?|Húmero.|Membro Superior
+Quais são os ossos do antebraço e como se situam?|Rádio (lateral, lado do polegar) e ulna (medial, lado do mínimo).|Membro Superior
+Como são numerados os dedos da mão e o que falta ao polegar?|1–5 (polegar ao mínimo); o polegar não tem falange média.|Membro Superior
+Quais são os ossos da perna (joelho ao tornozelo) e suas posições?|Tíbia (medial, osso da canela) e fíbula (lateral, mais fina).|Membro Inferior
+Qual é o osso da coxa?|Fêmur.|Membro Inferior
+Defina decúbito dorsal (supina) e ventral (prona).|Supina: deitado de costas; Prona: deitado de bruços.|Decúbitos
+O que é decúbito lateral e sedestação?|Decúbito lateral: deitado de lado; Sedestação: sentado.|Decúbitos
+O que é escara e como prevenir?|Lesão por pressão por isquemia; prevenir com mudanças de decúbito e cuidados com a pele.|Decúbitos
+Defina flexão e extensão.|Flexão diminui o ângulo entre segmentos; extensão aumenta o ângulo.|Movimentos (Sagital)
+A flexão do joelho ocorre em que direção e qual a exceção comum de entendimento?|No joelho, flexão leva a perna para trás (particularidade); nem toda flexão é para trás.|Movimentos (Sagital)
+Defina abdução e adução.|Abdução afasta da linha média; adução aproxima da linha média.|Movimentos (Frontal)
+Quais são as rotações típicas em ombro e quadril?|Rotação interna (medial) e externa (lateral).|Movimentos (Transversal)
+Quais são os desvios do punho e como se orientam?|Desvio radial (em direção ao polegar) e ulnar (em direção ao mínimo).|Punho
+Defina supinação e pronação do antebraço.|Supinação: palmas para cima; Pronação: palmas para baixo.|Antebraço
+Como se definem dorsiflexão e flexão plantar?|Dorsiflexão: ponta do pé sobe; Flexão plantar: ponta do pé desce.|Pé
+O que compõe o sistema tegumentar?|Pele (epiderme, derme, hipoderme) e anexos (pelos, unhas, glândulas).|Sistema Tegumentar
+Por que é necessária cautela no uso de PANCs?|Identificação botânica correta e avaliação de toxicidade/contraindicações são essenciais.|PANCs
+Quando o útero passa de órgão pélvico a abdominal na gestação?|Por volta da 12ª semana (fundo uterino acima da sínfise púbica).|Obstetrícia Básica
+O que é a Terminologia Anatômica?|Vocabulário padronizado internacionalmente para descrever estruturas e posições anatômicas.|Terminologia
+Quais EPIs e condutas gerais são esperados no laboratório de anatomia?|Jaleco, calçado fechado, biossegurança e cumprimento de normas locais.|Laboratório
+Para que servem atlas e colorir figuras no estudo de anatomia?|Aprimoram reconhecimento espacial e memorização de estruturas.|Estratégias de Estudo
